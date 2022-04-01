@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/number-float64-base-exponent",
+  "version": "0.0.0",
+  "description": "Return an integer corresponding to the unbiased exponent of a double-precision floating-point number.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/number-float64-base-exponent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "base",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "types",
+    "type",
+    "exponent",
+    "unbiased",
+    "bits",
+    "floating-point",
+    "float64",
+    "float",
+    "double",
+    "64-bit",
+    "ieee754",
+    "number",
+    "word"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
