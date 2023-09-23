@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@deno/mod.js';
+import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@v0.1.0-deno/mod.js';
 ```
 
 #### exponent( x )
@@ -80,7 +80,7 @@ exp = exponent( NaN );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@deno/mod.js';
-import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@deno/mod.js';
+import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@v0.1.0-deno/mod.js';
 
 var frac;
 var exp;
