@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@esm/index.mjs';
+import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@v0.1.1-esm/index.mjs';
 ```
 
 #### exponent( x )
@@ -85,7 +85,7 @@ exp = exponent( NaN );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
-import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@esm/index.mjs';
+import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@v0.1.1-esm/index.mjs';
 
 var frac;
 var exp;
