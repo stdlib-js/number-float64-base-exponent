@@ -42,7 +42,8 @@
     "@stdlib/constants-float64-exponent-bias": "^0.1.1",
     "@stdlib/constants-float64-high-word-exponent-mask": "^0.1.1",
     "@stdlib/number-float64-base-get-high-word": "^0.1.1",
-    "@stdlib/utils-library-manifest": "^0.1.1"
+    "@stdlib/utils-library-manifest": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/constants-float64-ninf": "^0.1.1",
