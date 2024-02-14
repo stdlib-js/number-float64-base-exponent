@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-float64-base-exponent/tags). For example,
+
+```javascript
 import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@v0.2.0-esm/index.mjs';
 ```
 
@@ -85,7 +90,7 @@ exp = exponent( NaN );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
-import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@v0.2.0-esm/index.mjs';
+import exponent from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-exponent@esm/index.mjs';
 
 var frac;
 var exp;
