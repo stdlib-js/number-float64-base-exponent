@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2026-01-30)
 
 <section class="issues">
 
@@ -24,6 +24,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`7483bef`](https://github.com/stdlib-js/stdlib/commit/7483bef13b1d3241347266d25a02957269419825) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`eff9b74`](https://github.com/stdlib-js/stdlib/commit/eff9b74602cd76a308c6518e1de5bd383b24b138) - **chore:** fix EditorConfig lint errors [(#7356)](https://github.com/stdlib-js/stdlib/pull/7356) _(by Lokesh Ranjan)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -37,10 +39,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Lokesh Ranjan
+-   Philipp Burckhardt
 
 </section>
 
